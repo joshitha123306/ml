@@ -1,0 +1,5 @@
+{
+  "name": "AI Weather Forecaster",
+  "description": "A web application that uses generative AI to provide a weather forecast and explain the underlying machine learning concepts used in meteorology.",
+  "requestFramePermissions": []
+}
